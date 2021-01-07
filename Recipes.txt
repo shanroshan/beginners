@@ -3,7 +3,9 @@ welcome to git world
 Rice 
 Chicken
 
-
+Beans
+Pizza
 Thank you open world
+Done my changes
 
 This is final copy
